@@ -2,7 +2,13 @@
 
 Object localizer plus multiclass classification project
 
+#
+
 ![alt text](output.jpg "Theo")
+
+## Notebooks:
+ - `localizer_v2.ipynb` (👈 object localization from scratch!)
+ - `pretrained_object_detection.ipynb` (using pre-trained models in keras_cv)
 
 ## Overview
 In this project, I developed a system for generating images containing objects embedded in random background images. The project aims to localize these objects within the images and classify them into different categories using a convolutional neural network (CNN) based on the VGG16 model. The system can be used for tasks like object detection and localization in various computer vision applications.
